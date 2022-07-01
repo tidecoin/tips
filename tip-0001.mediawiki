@@ -1,6 +1,6 @@
 <pre>
   TIP: 1
-  Title: TIP proces
+  Title: TIP process
   Author: Yar Sawyer <idquantum@gmail.com>
   Comments-Summary: No comments yet.
   Comments-URI: https://github.com/tidecoin/tips/wiki/Comments:TIP-0001
