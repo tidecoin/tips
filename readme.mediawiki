@@ -14,7 +14,7 @@ Those proposing changes should consider that ultimately consent may rest with th
 !Type
 !Status
 |- style="background-color: #ffcfcf"
-| [[bip-0001.mediawiki|1]]
+| [[tip-0001.mediawiki|1]]
 |
 | TIP Purpose and Guidelines
 | Yar Sawyer
